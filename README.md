@@ -52,6 +52,9 @@ Word Count Distribution
 
 WordCloud for Spam vs Non-Spam
 
+### Spam vs Non-Spam Distribution
+![Class Distribution](https://github.com/janhavisakoji/Youtube_Comments_Spam_Detection/blob/57ceba81a4317d743fa7a470eb2d6ec4ef59828f/spam_non-spam.png)
+
 ## 🤖 Machine Learning Models
 
 We trained and compared the following models:
@@ -71,6 +74,9 @@ We trained and compared the following models:
 TF-IDF Models performed better than Word2Vec (spam depends on keywords).
 
 Logistic Regression, SVM, and XGBoost gave the highest accuracy.
+
+### Model Accuracy Comparison
+![Accuracy Comparison](https://github.com/janhavisakoji/Youtube_Comments_Spam_Detection/blob/57ceba81a4317d743fa7a470eb2d6ec4ef59828f/Model_Accuracy_Comparison.png)
 
 ## 🛠️ Tech Stack
 
